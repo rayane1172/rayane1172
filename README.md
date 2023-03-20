@@ -11,7 +11,7 @@
 
 - 📫 How to contact me :**bouchairrayane01@gmail.com**
 
-- ⚡ Fun fact: **little man ,i'm always smilling with others.**
+- ⚡ Fun fact: **little man ,i'm always smilling with people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
