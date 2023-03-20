@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **little man ,i'm always smilling with people.**
 
-- 💻 I'M ALSO TYPING "70" WORDS PER MINUTE.
+- 💻 <h2>I'M ALSO TYPING "70" WORDS PER MINUTE.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
