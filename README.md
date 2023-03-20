@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rayane-bouchair-904a2b224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayane-bouchair-904a2b224" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rayane-bouchair-904a2b224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayane-bouchair-904a2b224" height="32" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100087405811151" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayane bouchair" height="30" width="40" /></a>
 <a href="https://instagram.com/rayaneeryn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayaneeryn" height="30" width="40" /></a>
 </p>
