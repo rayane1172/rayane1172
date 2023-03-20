@@ -11,7 +11,7 @@
 
 - 📫 How to contact me :**bouchairrayane01@gmail.com**
 
-- ⚡ Fun fact: **little man ,i'm always smilling with people.**
+- ⚡ Fun fact: **love programing ,i'm always smilling with people.**
 
 - 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE.</b>
 
