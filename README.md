@@ -31,8 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayane1172&" alt="rayane1172" /></p>
 
-
-<img align="left" width="180px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b708bb62-43d1-4fa6-9596-b441d2bb4cc4.jpg?v=1675464152000">
-<img align="left" width="180px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-d1c4ca4d-5dee-434e-a0a5-f6def8dfb8bd.jpg?v=1678631896000">
-<img align="left" width="180px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-060d9b2c-4ff9-4cce-b5da-7d7c1cc57304.jpg?v=1678920135000">
+<h2>SOME CERTIFICATE FROM UDEMY 📕:</h2>
+<img align="left" width="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b708bb62-43d1-4fa6-9596-b441d2bb4cc4.jpg?v=1675464152000">
+<img align="left" width="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-d1c4ca4d-5dee-434e-a0a5-f6def8dfb8bd.jpg?v=1678631896000">
+<img align="left" width="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-060d9b2c-4ff9-4cce-b5da-7d7c1cc57304.jpg?v=1678920135000">
 <em><h2 style="align-text:center;">By-Rayane-Bouchair</h2></em>
