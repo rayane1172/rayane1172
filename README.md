@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'M RAYANE BOUCHAIR&copy;</h1>
+<h1 align="center">Hi 👋, I'M RAYANE BOUCHAIR &copy;</h1>
 <h3 align="center"> Jenior full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.betterteam.com/images/software-developer-job-description-3599x2401-2020128.jpeg?crop=40:21,smart&width=1200&dpr=2">
 
