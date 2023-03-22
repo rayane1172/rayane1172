@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayane1172&label=Profile%20views&color=0e75b6&style=flat" alt="rayane1172" /> </p>
 
-- 🔗 I’m currently learning :**<b>react js ,bootstrap ,spring boot</b>**
+- 🔗 I’m currently learning :**<b>react js ,bootstrap ,spring boot.</b>**
 
-- 💬 Ask me about :**C,JAVA,HTML,CSS,SQL**
+- 💬 Ask me about :**C,JAVA,HTML,CSS,SQL.**
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
 
-- ⚡ Fun fact: **love programing ,i'm always smilling with people.**
+- ⚡ Fun fact: **love programing ,love visiting other sides in the world.**
 
 - 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE.</b>
 
