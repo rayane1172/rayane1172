@@ -10,9 +10,7 @@
 - 💬 Ask me about :**C,JAVA,HTML,CSS,SQL.**
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
-
-- ⚡ Fun fact: **love programing ,love visiting other sides in the world.**
-
+  
 - 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE.</b>
 
 <h3 align="left">Find me in Social media :</h3>
