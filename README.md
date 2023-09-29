@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayane1172&label=Profile%20views&color=0e75b6&style=flat" alt="rayane1172" /> </p>
 
-- 🔗 I’m currently learning :**<b>tailwing css ,react js , ,spring boot.</b>**
+- 🔗 I’m currently learning :**<b>tailwing css ,react js ,spring boot.</b>**
 
 - 💬 Ask me about :**C,JAVA,HTML,CSS,SQL.**
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
   
-- 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE.</b>
+- 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE => https://10fastfingers.com/share-badge/1_BG</b>
 
 <h3 align="left">Find me in Social media :</h3>
 <p align="left">
