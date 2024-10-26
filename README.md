@@ -7,7 +7,7 @@
 
 - 🔗 I’m currently learning :**<b>Python , Spring boot</b>**
 
-- 💬 Ask me about :**Front&Back technologies | Trading strategies.**
+- 💬 Ask me about :**Front&Back-end technologies | Trading strategies.**
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
   
