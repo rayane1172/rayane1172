@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayane1172&label=Profile%20views&color=0e75b6&style=flat" alt="rayane1172" /> </p>
 
-- 🔗 I’m currently learning :**<b>Spring boot</b>**
+- 🔗 I’m currently learning :**<b>Blockchain | smart contract </b>**
 
 - 💬 Ask me about :**Front&Back-end technologies | Trading strategies.**
 
