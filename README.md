@@ -20,11 +20,12 @@
 <a href="https://instagram.com/rayaneeryn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayaneeryn" height="30" width="40" /></a>
 </p>
 <h2 align="center">SOME CERTIFICATES FROM UDEMY 📕:</h2>
-<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b708bb62-43d1-4fa6-9596-b441d2bb4cc4.jpg?v=1675464152000">
-<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-d1c4ca4d-5dee-434e-a0a5-f6def8dfb8bd.jpg?v=1678631896000">
-<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-060d9b2c-4ff9-4cce-b5da-7d7c1cc57304.jpg?v=1678920135000">
-<img align="left" width="140px" src="[https://udemy-certificate.s3.amazonaws.com/image/UC-060d9b2c-4ff9-4cce-b5da-7d7c1cc57304.jpg?v=1678920135000](http://ude.my/UC-a69bd636-5032-4518-a8f0-bbab4df0a2a9)">
-
+<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b708bb62-43d1-4fa6-9596-b441d2bb4cc4.jpg?v=1675464152000" alt="Certificate 1">
+<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-d1c4ca4d-5dee-434e-a0a5-f6def8dfb8bd.jpg?v=1678631896000" alt="Certificate 2">
+<img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-060d9b2c-4ff9-4cce-b5da-7d7c1cc57304.jpg?v=1678920135000" alt="Certificate 3">
+<a href="https://www.udemy.com/certificate/UC-a69bd636-5032-4518-a8f0-bbab4df0a2a9/">
+  <img align="left" width="140px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-a69bd636-5032-4518-a8f0-bbab4df0a2a9.jpg" alt="Certificate 4">
+</a>
 <em><h2 style="align-text:center;">By-Rayane-Bouchair &copy;</h2></em> 
 <br> <br>
 <h3 align="left">Languages and Tools:</h3>
