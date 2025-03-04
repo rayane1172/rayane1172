@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'M RAYANE BOUCHAIR &copy;</h1>
-<h3 align="center"> Jenior full-stack developer</h3>
+<h3 align="center"> Junior full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.betterteam.com/images/software-developer-job-description-3599x2401-2020128.jpeg?crop=40:21,smart&width=1200&dpr=2">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayane1172&label=Profile%20views&color=0e75b6&style=flat" alt="rayane1172" /> </p>
 
-- 🔗 I’m currently learning :**<b>Blockchain | smart contract </b>**
+- 🔗 I’m currently learning :**<b>Blockchain | smart contract | About Crypto currencies </b>**
 
 - 💬 Ask me about :**Front&Back-end technologies | Trading strategies.**
 
