@@ -7,7 +7,7 @@
 
 - 🔗 I’m currently learning :**<b>Blockchain | About Crypto currencies  </b>**
 
-- 💬 Ask me about :**Front&Back-end technologies | Trading strategies.**
+- 💬 Ask me about :**Front&Back-end technologies |  Smart Contracts.**
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
   
