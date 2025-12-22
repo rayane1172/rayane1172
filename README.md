@@ -11,7 +11,7 @@
 
 - 📫 Contact me with :**bouchairrayane01@gmail.com**
   
-- 💻 <b>I'M ALSO TYPING "70" WORDS PER MINUTE (you can see my score) => https://10fastfingers.com/share-badge/1_BM</b>
+- 💻 <b>I'M ALSO TYPING "100" WORDS PER MINUTE => https://10fastfingers.com/share-badge/1_BM</b>
 
 <h3 align="left">Find me in Social media :</h3>
 <p align="left">
