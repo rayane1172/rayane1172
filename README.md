@@ -9,8 +9,6 @@
 
 - 💬 Ask me about :**Front&Back-end technologies |  Smart Contracts.**
 
-- 📫 Contact me with :**bouchairrayane01@gmail.com**
-  
 - 💻 <b>I'M ALSO TYPING "100" WORDS PER MINUTE => https://10fastfingers.com/share-badge/1_BM</b>
 
 <h3 align="left">Find me in Social media :</h3>
